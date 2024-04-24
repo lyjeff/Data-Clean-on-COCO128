@@ -23,7 +23,6 @@ In the image below, the main category is "person". The other category is "umbrel
 ![Example](Example.jpg)
 
 ## Execution Result
-- The result files are saved on [lyjeff/Data-Clean-on-COCO128/result.zip](https://github.com/lyjeff/Data-Clean-on-COCO128/blob/main/result.zip)
 - Total time spent: 2.4640 seconds.
 - Image no.250 and no.508 have no label.
 - There are 9 classes those do not appear in the dataset:
